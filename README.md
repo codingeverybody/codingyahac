@@ -17,3 +17,7 @@
 ## 코딩야학에서의 질문의 기술
 - 코드를 첨부할 때 \`\`\` 기호를 앞 뒤에 추가하면 코드가 보기 좋아집니다.
 - 궁금증이 해소 되었다면 close 버튼을 눌러주세요.
+
+
+이제 질문하러 갑시다!
+https://github.com/codingeverybody/codingyahac/issues
