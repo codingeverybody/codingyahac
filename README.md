@@ -26,4 +26,4 @@
 https://github.com/codingeverybody/codingyahac/issues
 
 질문&답변 백서
-https://github.com/codingeverybody/codingyahac/wiki/%EC%BD%94%EB%94%A9%EC%95%BC%ED%95%99-%EB%B0%B1%EC%84%9C
+https://github.com/codingeverybody/codingyahac/wiki/%EC%95%BC%ED%95%99-%EB%B0%B1%EC%84%9C
